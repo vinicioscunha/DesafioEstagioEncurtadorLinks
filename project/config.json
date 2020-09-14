@@ -1,0 +1,16 @@
+{
+    "server": {
+        "port": 8000
+    },
+    "db": {
+        "populateDB": true,
+        "user": "postgres",
+        "password": "654321",
+        "port": 5432,
+        "schema": "url-encurtador",
+        "host": "localhost"
+    },
+    "url": {
+        "mainURL": "http://localhost"
+    }
+}
