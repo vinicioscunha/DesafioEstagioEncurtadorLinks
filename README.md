@@ -1,7 +1,7 @@
 # Desafio "Encurtador de Links"
 
 
-## Configurações Necessário
+## Configurações Necessárias
 
 - ** Instalar o node
 - ** Usar o banco de dados PostgreSQL
